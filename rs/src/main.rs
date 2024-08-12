@@ -1,7 +1,8 @@
 //mod twosum;
-mod relative_sort_array;
+//mod relative_sort_array;
+mod sort_colors;
 
 fn main() {
 
-    relative_sort_array::run();
+    sort_colors::run();
 }

@@ -1,2 +1,4 @@
 /rs/target/
 /rs/Cargo.lock
+/py/__pycache__/
+/py/.pytest_cache/
